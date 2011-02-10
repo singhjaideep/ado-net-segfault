@@ -1,0 +1,26 @@
+#summary One-sentence summary of this page.
+
+= *Team Meeting Details* =
+
+{|border="1" cellpadding="5" cellspacing="0" align="center"
+|-
+! scope="col" | Date, Day, Time
+! scope="col" | Agenda
+! scope="col" | Present
+|-
+|02/02,Wednesday, 6:00pm
+|Worked on project presentation
+|Everyone
+|-
+|02/05,Sunday, 3:30pm
+|Learn Model based testing and C#
+|Everyone
+|-
+|02/07,Monday, 7:00pm
+|Split up work for Interim Report 1
+|Everyone
+|-
+|02/09,Wednesday, 6:00pm
+|Discuss and integrate the work. Worked on tool presentation
+|Everyone
+|}

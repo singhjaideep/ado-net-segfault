@@ -2,6 +2,7 @@
 
 = *Team Meeting Details* =
 
+|| table || cells || lala ||
 {|border="1" cellpadding="5" cellspacing="0" align="center"
 |-
 ! scope="col" | Date, Day, Time

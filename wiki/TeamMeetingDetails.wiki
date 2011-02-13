@@ -1,8 +1,9 @@
 #summary One-sentence summary of this page.
 
-= *Team Meeting Details* =
+= *_Team Meeting Details_* =
 
-|| 02/02,Wednesday, 6:00pm || Worked on project presentation ||
-|| 02/05,Sunday, 3:30pm || Learn Model based testing and C# ||
+|| *Date and Time || Details || Attendance* ||
+|| 02/02,Wednesday, 6:00pm || Worked on project presentation || Everyone || 
+|| 02/05,Sunday, 3:30pm || Learn Model based testing and C# || Everyone ||
 || 02/07,Monday, 7:00pm || Split up work for Interim Report 1 ||
-|| 02/09,Wednesday, 6:00pm || Discuss and integrate the work. Worked on tool presentation ||
+|| 02/09,Wednesday, 6:00pm || Discuss and integrate the work. Worked on tool presentation || Everyone ||

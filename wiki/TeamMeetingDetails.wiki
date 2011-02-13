@@ -2,7 +2,7 @@
 
 = *Team Meeting Details* =
 
-|| 02/02,Wednesday, 6:00pm || Worked on project presentation; Attended by Everyone
-|| 02/05,Sunday, 3:30pm || Learn Model based testing and C#; Attended by Everyone
-|| 02/07,Monday, 7:00pm ||Split up work for Interim Report 1; Attended by Everyone
-|| 02/09,Wednesday, 6:00pm ||Discuss and integrate the work. Worked on tool presentation; Attended by Everyone
+|| 02/02,Wednesday, 6:00pm || Worked on project presentation. Attended by Everyone
+|| 02/05,Sunday, 3:30pm || Learn Model based testing and C#. Attended by Everyone
+|| 02/07,Monday, 7:00pm ||Split up work for Interim Report 1. Attended by Everyone
+|| 02/09,Wednesday, 6:00pm ||Discuss and integrate the work. Worked on tool presentation. Attended by Everyone

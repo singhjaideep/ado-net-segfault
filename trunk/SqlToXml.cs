@@ -1,4 +1,4 @@
-﻿//Reading from a Table into an XML file
+ //Reading from a Table into an XML file
 //Jaideep Singh
 
 using System;
@@ -18,7 +18,7 @@ namespace ConsoleApplication2
     {//1433
         static void Main(string[] args)
         {
-            SqlConnection connection = new SqlConnection("Data Source=web.ankitbuti.com; Initial Catalog=Northwind;Persist Security Info=True;User ID=segfault;Password=jd");
+            SqlConnection connection = new SqlConnection("INSERT KEY HERE");
             SqlCommand command = new SqlCommand("SELECT * FROM [Order Details]", connection);
             SqlDataAdapter myDataAdapter = new SqlDataAdapter(command);
             Console.WriteLine("Importing...\n");

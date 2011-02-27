@@ -2,6 +2,6 @@
 
 || _Summary_ || _Link_ ||
 || How To Access Google Code SVN Server || [http://devwatch.wordpress.com/2008/10/25/how-to-access-google-code-svn/ link] ||
-|| Spec Explorer Basics Screencast(2 Videos) || [http://social.msdn.microsoft.com/Forums/en/specexplorer/thread/104d87a8-cabc-4e67-a2d8-58f99b0ebd41 link] ||
+|| SpecExplorer Basics Screencast(2 Videos) || [http://social.msdn.microsoft.com/Forums/en/specexplorer/thread/104d87a8-cabc-4e67-a2d8-58f99b0ebd41 link] ||
 || SpecExplorer Concepts || [http://msdn.microsoft.com/en-us/library/ee620462.aspx link] ||
 || First Session(others in page links) || [http://channel9.msdn.com/tags/SpecExplorerClassSession1/ link] ||

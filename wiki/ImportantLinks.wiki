@@ -1,6 +1,4 @@
-#Important links regarding the project.
-
-= Introduction =
+= Important links =
 
 Add your content here.
 

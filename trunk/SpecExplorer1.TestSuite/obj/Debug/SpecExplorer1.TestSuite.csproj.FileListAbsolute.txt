@@ -1,5 +1,0 @@
-C:\Documents and Settings\JD\My Documents\Visual Studio 2010\Projects\ConsoleApplication2\SpecExplorer1.TestSuite\bin\Debug\SpecExplorer1.TestSuite.dll
-C:\Documents and Settings\JD\My Documents\Visual Studio 2010\Projects\ConsoleApplication2\SpecExplorer1.TestSuite\bin\Debug\SpecExplorer1.TestSuite.pdb
-C:\Documents and Settings\JD\My Documents\Visual Studio 2010\Projects\ConsoleApplication2\SpecExplorer1.TestSuite\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\JD\My Documents\Visual Studio 2010\Projects\ConsoleApplication2\SpecExplorer1.TestSuite\obj\Debug\SpecExplorer1.TestSuite.dll
-C:\Documents and Settings\JD\My Documents\Visual Studio 2010\Projects\ConsoleApplication2\SpecExplorer1.TestSuite\obj\Debug\SpecExplorer1.TestSuite.pdb

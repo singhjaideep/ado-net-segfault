@@ -1,0 +1,66 @@
+//using imp;
+//using Microsoft.Modeling;
+
+config main
+{
+    
+    action abstract static void sampler.setVal(int t)
+        where t in {0..3};
+    //action abstract static bool myAPI.go();
+    action abstract static bool sampler.initialize();
+    action abstract static bool imp.prj.myAPI.testconnect();
+    
+    //action abstract static MySql.Data.MySqlClient.MySqlConnection myAPI.sqlconnect(string x);
+    action abstract static bool imp.prj.myAPI.sqlcomm();
+    //action abstract static bool sampler.sqlcomm();
+    action abstract static bool sampler.sqltoxml();
+    //action abstract static bool imp.myAPI.sqlcomm();
+    action abstract static bool imp.prj.myAPI.testWrite();
+  //  action abstract static bool myAPI.testWrite();
+    switch StepBound = 128;
+    switch PathDepthBound = 128;
+    //switch StateBound = 0;
+    switch TestClassBase = "vs";
+    switch GeneratedTestPath = "..\\arjunSpec.TestSuite";
+    switch GeneratedTestNamespace = "arjunSpec.TestSuite";
+    switch TestEnabled = false;
+    switch ForExploration = false;
+   }
+    
+
+config ParameterCombination: main 
+{
+   // action static bool imp.myAPI.go()
+        
+
+      //  where con in {"Data Source=  ensembldb.ensembl.org ;Database = aedes_aegypti_core_40_1;User ID=anonymous;Password="};    
+        //where query in {"SELECT analysis_id FROM analysis"};
+}
+
+
+machine method1() : main where ForExploration = true
+{
+    construct model program from main 
+    where namespace = "imp" //The value of the namespace switch can be a .Net namespace or a fully-qualified class name.
+}
+
+machine method2() : main where ForExploration = true
+{
+    initialize()
+}
+
+machine method3() : main where ForExploration = true
+{
+      initialize()
+}
+
+
+machine toCall() : main where ForExploration = true
+{
+    method1() //|| method3()
+}
+
+machine xmlTestSuite() : main where ForExploration = true, TestEnabled = true
+{
+    construct test cases where strategy = "ShortTests" for toCall()
+}

@@ -1,0 +1,10 @@
+C:\test\arjunTest\arjunTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\test\arjunTest\arjunTest\bin\Debug\arjunTest.exe
+C:\test\arjunTest\arjunTest\bin\Debug\arjunTest.pdb
+C:\test\arjunTest\arjunTest\obj\x86\Debug\arjunTest.exe
+C:\test\arjunTest\arjunTest\obj\x86\Debug\arjunTest.pdb
+C:\Documents and Settings\JD\Desktop\arjunTest\arjunTest\arjunTest\obj\x86\Debug\arjunTest.exe
+C:\Documents and Settings\JD\Desktop\arjunTest\arjunTest\arjunTest\obj\x86\Debug\arjunTest.pdb
+C:\Documents and Settings\JD\Desktop\arjunTest\arjunTest\arjunTest\bin\Debug\arjunTest.exe
+C:\Documents and Settings\JD\Desktop\arjunTest\arjunTest\arjunTest\bin\Debug\arjunTest.pdb
+C:\Documents and Settings\JD\Desktop\arjunTest\arjunTest\arjunTest\obj\x86\Debug\ResolveAssemblyReference.cache

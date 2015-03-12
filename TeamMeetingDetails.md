@@ -1,0 +1,9 @@
+## **Team Meeting Details** ##
+
+| _Date and Time_ | _Details_ | _Attendance_ |
+|:----------------|:----------|:-------------|
+| 02/02,Wednesday, 6:00pm | Worked on project presentation | Everyone     |
+| 02/05,Sunday, 3:30pm | Learn Model based testing and C# | Everyone     |
+| 02/07,Monday, 7:00pm | Split up work for Interim Report 1 | Everyone     |
+| 02/09,Wednesday, 6:00pm | Discuss and integrate the work. Worked on tool presentation | Everyone     |
+| 02/14,Monday, 8:30pm | Preparing models for Microsoft | Everyone     |
